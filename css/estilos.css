@@ -1,5 +1,4 @@
-
-            body
+body
 {
     color: #333;
     text-align: center;
@@ -43,4 +42,8 @@
 {
     padding: 1em;
 }
-      
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+}
